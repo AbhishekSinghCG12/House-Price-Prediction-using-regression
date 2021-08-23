@@ -1,1 +1,1 @@
-# Loan-Prediction-Model-Using-Classification
+# House price rediction-Model-Using-Regression
